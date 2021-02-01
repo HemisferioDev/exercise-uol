@@ -1,0 +1,15 @@
+span.icon-container {
+    padding: 4px;
+    background-color: gray;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+.bi-list-ul {
+    cursor: pointer;
+    color: white;
+}
+
+.exercise-container {
+    margin: 10px 0;
+}
